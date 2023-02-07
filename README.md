@@ -3,7 +3,7 @@ Materials for 2023 Winter School at Munich
 
 ## 1. dTT_2023Wschool.txt 
 Meridional gradient (dTT=T_N-T_S) between the upper tropospheric temperature in the Northern box (T_N) and that in the Southern (T_S); daily values from 1st January 1948 to 31st December 2022
-* Columns (separated by a space): dTT, year, day of year, T_N, T_S 
+* Columns (separated by a space): dTT, year, day of the year, T_N, T_S 
 
 ## 2. onset_date_2023Wschool.txt
 Indian summer monsoon onset dates (the first date with dTT>0 in a year) and and withdrawal dates (the first date with dTT<0 in autumn)
