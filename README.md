@@ -7,7 +7,7 @@ Materials for 2023 Winter School at Munich
 * Columns (separated by space): dTT, year, day of the year, T_N, T_S 
 
 ## 2. onset_date_2023Wschool.txt
-* Indian summer monsoon onset dates (the first date with dTT>0 in a year) and and withdrawal dates (the first date with dTT<0 in autumn)
+* Indian summer monsoon onset dates (the first date with dTT>0 in a year) and the withdrawal dates (the first date with dTT<0 in autumn)
 * Columns (separated by space): year, onset day of the year, withdrawal day of the year, onset date from Jan 1st 1948, withdrawal date from Jan 1st 1948 
 
 #
